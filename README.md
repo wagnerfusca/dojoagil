@@ -25,20 +25,23 @@ Ao final desta dinâmica **não** se espera um plano de ação. Espera-se maior 
 
 ## Como contribuir?
 Você pode contribuir com este projeto de 3 formas:
-1. Abrindo um PR com um case novo
- 1. a
+1. Abrindo um *Pull Request (PR)* com um case novo
+    1. Faça um fork do projeto
+    1. Descreva um case na pasta de mesmo nome
+    1. Inclua o link do case no README.md
+    1. Abra um PR e aguarde a aprovação!
 1. Concluindo alguma [Issue](https://github.com/wagnerfusca/dojoagil/issues) aberta. As issues são cases que precisam ser descritos.
- 1. a
+    1. Procure uma issue e crie uma história 
+    1. Use e abuse da criatividade, trazendo situações do dia a dia.
 1. Enviando o case por e-mail (wagnerfusca@gmail.com)
- 1. a
 
 
 Escolha uma das formas e seja feliz! :)
 
 
 # Cases
-* [CASE 1]
-* Item 1
+* [CASE 1](case/case1.md)
+* 
 
 
 ## Autor 
